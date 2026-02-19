@@ -1,6 +1,6 @@
 # 从1小时到10分钟：我如何用AI工具，高效“榨干”B站学习视频的全部价值？
 
-<img width="1284" height="551" alt="wechat_2026-02-18_171509_637" src="https://github.com/user-attachments/assets/071e27e6-371a-4501-8096-239da4db3ebf" />
+[<img width="1284" height="551" alt="wechat_2026-02-18_171509_637" src="https://github.com/user-attachments/assets/071e27e6-371a-4501-8096-239da4db3ebf" />](https://diting.cc)
 
 
 ## 一个学习者的真实困境
@@ -41,7 +41,7 @@
 
 **一键批量提取，10秒后，所有视频的文字稿全部生成完毕。**
 
-1. 访问https://diting.cc/进入知识空间
+1. 访问 [https://diting.cc](https://diting.cc) 进入知识空间
 
 <img width="2952" height="1686" alt="image" src="https://github.com/user-attachments/assets/6e242ab4-34b1-4759-8508-5190d3389685" />
 
@@ -188,7 +188,7 @@
 
 **如果你也曾被海量视频淹没，渴望一种更高效的学习方式，我强烈建议你亲自体验。**
 
-现在，谛听为新用户提供了 **【30分钟免费额度】**，足够你完整处理2-3个大型视频合集，亲眼见证从“信息过载”到“知识内化”的整个过程。
+现在，谛听为新用户提供了 **【3[0分钟免费额度](https://diting.cc)】**，足够你完整处理2-3个大型视频合集，亲眼见证从“信息过载”到“知识内化”的整个过程。
 
 [**➡️ https://diting.cc**](https://diting.cc)
 
