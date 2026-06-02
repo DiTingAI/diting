@@ -1,3 +1,8 @@
+# 👑 [谛听 AI 视频知识库](https://diting.cc) | 专为B站优化的视频转文字神器
+## 🚀 B站多P视频AI批量处理 | 一键提取视频文案 | 自动生成思维导图 🚀
+
+🎁 微信扫码秒登录｜送 30 分钟体验额度｜10分钟内短视频永久免费
+
 # 从1小时到10分钟：我如何用AI工具，高效“榨干”B站学习视频的全部价值？
 
 [<img width="1284" height="551" alt="wechat_2026-02-18_171509_637" src="https://github.com/user-attachments/assets/071e27e6-371a-4501-8096-239da4db3ebf" />](https://diting.cc)
