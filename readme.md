@@ -5,7 +5,7 @@
 
 # 从1小时到10分钟：我如何用AI工具，高效“榨干”B站学习视频的全部价值？
 
-[<img width="1920" height="1080" alt="diting" src="https://github.com/user-attachments/assets/2da2dec5-ac79-4dd1-9afa-922c24a5bbe9" />](https://diting.cc)
+[<img width="2482" height="1320" alt="image" src="https://github.com/user-attachments/assets/fdd36f6b-9046-442f-a436-4a98644a1002" />](https://diting.cc)
 
 
 # 🚀 快速开始（白嫖通道） 🚀
@@ -15,6 +15,7 @@
 
 ## 2、🎁 微信扫码一秒登录，直接送 30分钟 VIP 额度
 新用户首次登录雷打不动送 30 分钟时长，支持批量勾选多P合集，体验“云端全自动排队萃取”。
+
 
 
 
